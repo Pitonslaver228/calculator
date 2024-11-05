@@ -48,3 +48,7 @@ class Calculator:
                 print(self.divide(val1, val2))
             elif command == 4:
                 print(self.multiple(val1, val2))
+
+
+cal = Calculator()
+cal.run()
