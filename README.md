@@ -1,2 +1,2 @@
 # calculator
-simple calculator realisation
+simple calculator realisation with tkinter lib
